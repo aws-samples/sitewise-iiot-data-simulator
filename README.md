@@ -3,6 +3,6 @@ The Industrial Furnace data simulator for AWS IoT SiteWise is related to the AWS
 ## Usage
 You pass the `Factory` asset id as parameter and the simulator will send sample data to all child `Furnace` assets. The simulator reads the `Setpoint` attribute value on the Furnace asset to determine the `HOLDING` temparature. This feature can be used to vary the `HOLDING` duration and inducing anomalies on the `HOLDING` duration. 
 
-Usage : python3 furnace.py <Factory Asset Id> <simulation duration in seconds>
+Usage : python3 furnace.py Factory-Asset-Id simulation-duration-in-seconds
 
 
