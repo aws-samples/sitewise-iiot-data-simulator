@@ -1,3 +1,5 @@
+The Industrial Furnace data simulator for AWS IoT SiteWise includes the following third-party software/licensing:
+
 ** ratelimiter; version 1.2.0.post0 -- https://github.com/RazerM/ratelimiter
 Original work Copyright 2013 Arnaud Porterie
 Modified work Copyright 2016 Frazer McLean
