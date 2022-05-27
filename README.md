@@ -1,4 +1,4 @@
-The Industrial Furnace data simulator for AWS IoT SiteWise is related to the AWS IoT blog :  `Create insights by contextualizing industrial equipment data using AWS IoT SiteWise`
+The Industrial Furnace data simulator for AWS IoT SiteWise is related to the AWS IoT blog :  [Create insights by contextualizing industrial equipment data using AWS IoT SiteWise](https://aws-blogs-prod.amazon.com/iot/create-insights-…-sitewise-part-1/)
 
 ## Setup
 
